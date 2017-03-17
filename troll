@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<script>
+function myFunction() {
+    window.open('https://fieldschool.myschoolapp.com/app/student#academicclass/3738329/0/bulletinboard', '_blank');
+}
+</script>
+</head>
+
+<body onload="myFunction()">
+<h1>Hello World!</h1>
+</body>
+
+</html>
